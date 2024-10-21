@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="button_text">Call Pokemons API</string>
+    <string name="pokemon_title_text">First 20 Pokemon</string>
+</resources>
